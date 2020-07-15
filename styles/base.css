@@ -75,6 +75,7 @@ iframe {
   padding: 5rem 1rem;
   background-image: url('../Pin on Wallpapers.jpg');
   background -position: center;
+  background-repeat: no-repeat;
 }
 
 .profile-img {
