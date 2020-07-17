@@ -125,7 +125,7 @@ iframe {
 }
 
 .btn-1 {
-  background: #d2f8d2;
+  background: #ffc0cb;
   color: white;
   padding: 1rem;
   text-transform: lowercase;
@@ -139,5 +139,5 @@ iframe {
 }
 
 .btn-1:hover {
-  border: 15px solid #ffc0cb;
+  border: 15px solid #d2f8d2;
 }
