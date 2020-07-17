@@ -75,6 +75,11 @@ iframe {
   padding: 5rem 1rem;
   background-image: url('../Pin on Wallpapers.jpg');
   background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover;
+  text-align: center;
+  
 }
 
 .banner-text {
@@ -84,7 +89,7 @@ iframe {
   width: auto;
   text-align: left;
   background: #a6a6ed;
-  color: white;
+  color: white; 
   border: 10px solid #a6eded;
   font-size: 4rem;
 }
@@ -94,3 +99,22 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.my-favorite-colors {
+  background: #ff83a0;
+  pading: 2rem;
+  color: white;
+}
+
+.my-favorite-ice-cream-flavor {
+  background: #81dafc;
+  padding: 2rem;
+  color: white;
+}
+
+.favorite-drink {
+  background: #bcbcf2;
+  padding: 2rem;
+  color: white;
+}
+
